@@ -133,7 +133,7 @@ The goal was to simulate core operating system utilities such as:
 
 ## 👨‍💻 Author
 
-**Bumika Jeena**
+**Mrinal Singh**
 
 ---
 
