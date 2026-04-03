@@ -72,14 +72,14 @@ The application is built using a simulated architecture:
 
 ## 📂 Project Structure
 
-cmd-simulator/
-│── src/
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-│
-│── package.json
-│── README.md
+- cmd-simulator/
+- │── src/
+- │ ├── App.jsx
+- │ ├── main.jsx
+- │ └── index.css
+- │
+- │── package.json
+- │── README.md
 
 
 ---
